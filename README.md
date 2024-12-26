@@ -51,3 +51,11 @@ Light Sensor.
 Servo Motor.
 Camera.
 MQ2 Gas Sensor Which was simulated.
+
+Technologies used:
+Node red for development.
+Node red dahboard for simple data visualisation and manual controls.
+Azure services for STT, Dashboard and Custom Vision Model for Machine Learning and Detecting the baby status.
+Influx DB for storing the Data.
+Grafan Dashboard for localized Data analysis and visualization.
+
